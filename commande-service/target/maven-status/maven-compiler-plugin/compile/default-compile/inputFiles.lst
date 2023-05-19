@@ -1,0 +1,13 @@
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity\Client.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity\CommandeProduitId.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\service\exception\CommandeException.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\repository\ClientRepository.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\repository\CommandeRepository.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity\Produit.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\controller\CommandeController.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\mapper\CommandeMapper.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\service\CommandeService.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\CommandeServiceApplication.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity\Detail.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\repository\ProduitRepository.java
+C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity\Commande.java

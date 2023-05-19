@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77f8704-ae89-47aa-8d9a-afa28616d7e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OjkLPOxnNubTK9ok9E1FafhJAG" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/commande-service/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.uahb.m1info.commande.service.service.exception" />
+      <recent name="com.uahb.m1info.commande.service.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\resources" />
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\common-service\src\main\java\com\uahb\m1info\common\service" />
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service" />
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com\uahb\m1info\commande\service\entity" />
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com.uahb.m1info.commande.service\Entity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.uahb.m1info.common.service.dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.uahb.m1info.commande.service" />
+      <recent name="com.uahb.m1info.commande.service.service" />
+      <recent name="com.uahb.m1info.commande.service.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheik\IdeaProjects\gestionstock-systeme\commande-service\src\main\java\com.uahb.m1info.commande.service\Entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommandeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="commandeservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uahb.m1info.commande.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uahb.m1info.commande.service.CommandeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CommandeServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77f8704-ae89-47aa-8d9a-afa28616d7e8" name="Default Changelist" comment="" />
+      <created>1681840485907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681840485907</updated>
+      <workItem from="1681840489353" duration="5179000" />
+      <workItem from="1682081322986" duration="590000" />
+      <workItem from="1682385995168" duration="623000" />
+      <workItem from="1682387420557" duration="16000" />
+      <workItem from="1682387573195" duration="454000" />
+      <workItem from="1682419751501" duration="254000" />
+      <workItem from="1682443202091" duration="13808000" />
+      <workItem from="1682528264866" duration="3452000" />
+      <workItem from="1682620409126" duration="9799000" />
+      <workItem from="1682726965540" duration="111000" />
+      <workItem from="1682963614965" duration="3151000" />
+      <workItem from="1683034615571" duration="5443000" />
+      <workItem from="1683054131431" duration="1839000" />
+      <workItem from="1683252868599" duration="358000" />
+      <workItem from="1683343032160" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
